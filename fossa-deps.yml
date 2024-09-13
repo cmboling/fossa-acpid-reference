@@ -1,0 +1,7 @@
+referenced-dependencies:
+- name: acpid
+  type: deb
+  version: "1:2.0.32-1ubuntu1"
+  arch: amd64
+  os: ubuntu
+  osVersion: "22.04"
